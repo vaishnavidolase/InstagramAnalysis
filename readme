@@ -1,12 +1,12 @@
-# InstagramAnalysis Project
+InstagramAnalysis Project
 
-## Overview
+Overview
 
 InstagramAnalysis is a comprehensive data analysis and visualization project centered around Instagram data. 
 The provided Jupyter Notebook, `InstagramAnalysis.ipynb`, demonstrates a thorough exploration of Instagram insights using Python and popular data science libraries.
 The project encompasses data cleaning, exploratory data analysis (EDA), and the development of a machine learning model to predict impressions based on various engagement metrics.
 
-## Prerequisites
+Prerequisites
 
 Before running the code, make sure you have the following dependencies installed:
 pip install pandas numpy matplotlib seaborn plotly wordcloud scikit-learn
